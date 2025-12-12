@@ -1,8 +1,7 @@
 python-telegram-bot==21.0.1
-Pillow==10.3.0
+Pillow==11.0.0
 pytesseract==0.3.10
 folium==0.14.0
 matplotlib==3.8.0
+Flask==3.0.0
 twilio==9.0.0
-flask==3.0.0
-requests==2.31.0
